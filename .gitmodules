@@ -1,0 +1,9 @@
+[submodule "ich-linux1"]
+	path = ich-linux1
+	url = https://github.com/devnazarchuk/ich-linux1.git
+[submodule "ichproject1"]
+	path = ichproject1
+	url = https://github.com/devnazarchuk/ichproject1.git
+[submodule "git-branch"]
+	path = git-branch
+	url = https://github.com/devnazarchuk/git-branch.git
