@@ -1,0 +1,11 @@
+
+  500  git submodule add https://github.com/devnazarchuk/ich-linux1.git ich-linux1
+  501  git submodule add https://github.com/devnazarchuk/ichproject1.git ichproject1
+  502  git submodule add https://github.com/devnazarchuk/git-branch.git git-branch
+  503  git add .gitmodules learning_git ich-linux1 ichproject1 git-branch
+  504  git commit -m "Added submodules: ich-linux1, ichproject1, git-branch"
+  505  git push origin main
+  506  git submodule status
+  507  git submodule update --remote
+  508  history >> history.txt
+  509  history 10 > history.txt
